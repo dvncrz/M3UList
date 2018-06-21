@@ -5,3 +5,5 @@ http://tvpremiumhd.club/lista-gratuita/214114/tv/v/1947.ts
 http://147.135.128.132:8000/live/lance2018/lance2018/222.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHxDXUa.png" group-title="MUNDIAL 2018",MUNDIAL: TELECINCO
 http://147.135.128.132:8000/live/lance2018/lance2018/224.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MUNDIAL 2018",Latino | Telemundo HD
+http://145.239.253.202:2086/live/Arlene/12345/5195.ts
