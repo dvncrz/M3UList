@@ -2,6 +2,6 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tWtOMB.png" group-title="MUNDIAL 2018",MUNDIAL: CARACOL TV
 http://tvpremiumhd.club/lista-gratuita/214114/tv/v/1947.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wL5IpNQ.png" group-title="MUNDIAL 2018",MUNDIAL: CUATRO
-http://2.139.50.187:4022/udp/239.0.0.4:8208
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHxDXUa.png" group-title="MUNDIAL 2018",MUNDIAL: TELECINCO
-http://2.139.50.187:4022/udp/239.0.0.5:8208
+http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8
