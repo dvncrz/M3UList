@@ -1,26 +1,58 @@
 [
   {
-    "date": 1493922600000,
-    "units": 320
+    "responder_name": "Asim Gulzar Jan",
+    "display_id": 1
   },
   {
-    "date": 1494009000000,
-    "units": 552
+    "date": "Carlos Osorio",
+    "units": 22
   },
   {
-    "date": 1494095400000,
-    "units": 342
+    "date": "Carlos Sanchez",
+    "units": 35
   },
   {
-    "date": 1494181800000,
-    "units": 431
+    "date": "Cristian Blanco",
+    "units": 13
   },
   {
-    "date": 1494268200000,
-    "units": 251
+    "date": "Daena Reichelderfer",
+    "units": 1
   },
   {
-    "date": 1494354600000,
-    "units": 445
+    "date": "Duvan Cruz",
+    "units": 5
+  },
+  {
+    "date": "Johan Quebrada",
+    "units": 15
+  },
+  {
+    "date": "Jose Avalos",
+    "units": 21
+  },
+  {
+    "date": "Joseph Villafranca",
+    "units": 1
+  },
+  {
+    "date": "Martin Alcala",
+    "units": 17
+  },
+  {
+    "date": "No Agent",
+    "units": 11
+  },
+  {
+    "date": "Paola Andrea Paredes",
+    "units": 11
+  },
+  {
+    "date": "Santiago Blandon",
+    "units": 31
+  },
+  {
+    "date": "Son Nguyen",
+    "units": 2
   }
 ]
